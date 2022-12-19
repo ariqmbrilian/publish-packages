@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ariqmbrilian/publish-packages/issues"
   },
+  "publishConfig": {
+    "@ariqmbrilian:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/ariqmbrilian/publish-packages#readme"
+
+ 
 }
